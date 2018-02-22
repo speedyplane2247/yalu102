@@ -6,21 +6,16 @@ A "work in progress" iOS jailbreak for 64-bit devices created by [qwertyoruiopz]
 
 Please use the "Issues" tab for **code related** issues only. If you need support please search on [/r/jailbreak](https://reddit.com/r/jailbreak) before posting a question there.
 
+## todo 
+das foid podpopedn up thsome siseus to make this afpgwe samroe ergular englsih, rther tha ths broken english below. (a nd aebaove)
+
 ## Supported Devices and iOS versions
 
 | Device | Version |
 |---------|----------|
-| iPad Pro  | iOS 10.0.0 -> iOS 10.2 |
-| iPhone 6S  | iOS 10.0.0 -> iOS 10.2 |
-| iPhone SE  | iOS 10.0.0 -> iOS 10.2 |
-| iPhone 5S  | iOS 10.0.0 -> iOS 10.2 |
-| iPad Air| iOS 10.0.0 -> iOS 10.2 |
-| iPad Mini 2| iOS 10.0.0 -> iOS 10.2 |
-| iPhone 6  | iOS 10.0.0 -> iOS 10.2 |
-| iPad Mini 3| iOS 10.0.0 -> iOS 10.2 |
-| iPad Air 2| iOS 10.0.0 -> iOS 10.2 |
-| iPad Mini 4 | iOS 10.0.0 -> iOS 10.2 |
-| iPod touch (6G)  | iOS 10.0.0 -> iOS 10.2 |
+| big fone | iso 60-4022932921391234 |
+
+no moar tho 🅱️
 
 ### Planned Support:
 
@@ -28,7 +23,7 @@ In the near future, the jailbreak will support the following devices:
 
 | Device | Version |
 |---------|----------|
-| iPhone 7  | iOS 10.0.0 -> iOS 10.1.1 |
+| ephun  | iSO 4222020269 -> iSO 422202069.4.2.0.1 |
 
 **Note, the iPhone 7 is only supported till iOS 10.1.1**
 If you are already on iOS 10.2 with an iPhone 7, **stay there**. The actual exploit behind this still works, but the KPP bypass does not.
@@ -49,28 +44,33 @@ Do not install things that are untested.
 
 **AppSync and other unsupported and untested software will probably throw your device into a bootloop or do other bad things.** Do not open an issue complaining that your device has been bootlooped because you installed other software. You have been warned.
 
-## Installing
+## InstallingE TO CONTAIN MALWARE. PLEASE BE EXTREMELY CAREFUL. THESE MIRRORS ARE TRUSTED, BUT STILL CHECK THE SHA1.
 
-> DO NOT DOWNLOAD THIS SOFTWARE FROM OTHER SOURCES OTHER THAN THESE LINKS UNDER ANY CIRCUMSTANCE. IT IS VERY EASY TO BACKDOOR THIS SORT OF SOFTWARE TO CONTAIN MALWARE. PLEASE BE EXTREMELY CAREFUL. THESE MIRRORS ARE TRUSTED, BUT STILL CHECK THE SHA1.
+> donot . sidwonalod this odstgraer from rother sources than rthese lisk under asnya cirucumstcance it is ery easy to vbackdoor this of i dfdas cto cinotaion malware please be dceddxtremyl caruelf. rhrrse mirros are testred, ut sitll ecehck the SHA1.
+
 
 * Download the pre-compiled version from the table below.
-* [Check the SHA1 hash](http://onlinemd5.com) of the downloaded file (optional but recommended).
-* Install using [Cydia Impactor](http://www.cydiaimpactor.com/).
+* [Check the SHA1 hash](http://youareanidiot.com) of the downloaded file (optional but recommended).
+* Install using [Cydia Impactor](http://youareanidiot.com/).
 * Open the application and follow instructions.
 
 
 | Version | Download | SHA1 |
 |---------|----------|------|
-| Beta 7  | [Link](https://yalu.qwertyoruiop.com/yalu102_beta7.ipa) | 4afa99d4b568aa8cbb9ac61fddd584111fed79c5  |
-| Beta 6  | [Link](https://yalu.qwertyoruiop.com/yalu102_beta6.ipa) | 0130ebe60c97e2013a4b849b7d9bc321d749f304  |
-| Beta 5  | [Link](https://yalu.qwertyoruiop.com/yalu102_beta5.ipa) | f8eb6cd37054a9d25b818e3bddd13bfedbf72df1  |
-| Beta 4  | [Link](https://yalu.qwertyoruiop.com/yalu102_beta4.ipa) | f8270e59d7d7267613ffa63217b91fea425eec36  |
-| Beta 3  | [Link](https://yalu.qwertyoruiop.com/yalu102_beta3.ipa) | b2e0bdd31566f876d67cba036b5d29aef7ff257d  |
-| Beta 2  | [Link](https://yalu.qwertyoruiop.com/yalu102_beta.ipa) | 4fddad7cca8aa0c0a6579c1d63d00917f15efc86  |
-| Beta 1  | [Link](https://yalu.qwertyoruiop.com/yalu102_alpha.ipa) | 2fe14f1c1e1a0d26203bbb123f6747a978dd2b4f  |
+| Beta 7  | [Link](https://youareanidiot.org) | **shitme**  |
+| Beta 6  | [Link](https://youareanidiot.org) | **shitme**  |
+| Beta 5  | [Link](https://youareanidiot.org) | **shitme**  |
+| Beta 4  | [Link](https://youareanidiot.org) | **shitme**  |
+| Beta 3  | [Link](https://youareanidiot.org) | **shitme**  |
+| Beta 2  | [Link](https://youareanidiot.org) | **shitme**  |
+| Beta 1  | [Link](https://youareanidiot.org) | **shitme**  |
 
-## Contributing
+## conirbing 
 
-Create a fork of the repository, make your changes and then create a pull request.
-Please be sure to check if the pull request has been made before, before creating a new one. Note, any pull requests adding IOKit headers will be closed. Please respect copyright laws, and do not distribute / download IOKit headers from unofficial sources: they are bundled legally with macOS SDK
 
+crateat a fork fdo th repso, mkea you rchages and tehe a creta e a pull reqst. 
+PLease beds ure if the cesheck has mdabeen mae before befeor firating a new doen, Note, daany ull requestn adding IOKit headaers i will be claoe,dm . Please wspesrepsect copyrigth lawas, so dan distribgute / dowlaod IOKTi headers from the unffocail sourecD: they rae afsdfbudelded legall yi with the macO SSASK
+
+## Jiberish Note
+
+This is quite obviously a parody, meant for [Link](https://reddit.com/r/jelbrek), it's a really cool community. I haven't updated any of the code, except for the storyboard files to make it funnier, don't worry this is still yalu102 Beta 7, with no updates. 
