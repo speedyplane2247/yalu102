@@ -14,6 +14,7 @@ das foid podpopedn up thsome siseus to make this afpgwe samroe ergular englsih, 
 | Device | Version |
 |---------|----------|
 | big fone | iso 60-4022932921391234 |
+| smal fone | iSo 69-4202 |
 
 no moar tho 🅱️
 
