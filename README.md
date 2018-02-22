@@ -1,10 +1,10 @@
-# yalu102
+# yalu420
 
 ![Yalu logo](https://github.com/kpwn/yalu102/blob/master/yalu102/Assets.xcassets/AppIcon.appiconset/AppIcon60x60@3x.png?raw=true)
 
 A "work in progress" iOS jailbreak for 64-bit devices created by [qwertyoruiopz](https://twitter.com/qwertyoruiopz) and [marcograssi](marcograss).
 
-Please use the "Issues" tab for **code related** issues only. If you need support please search on [/r/jailbreak](https://reddit.com/r/jailbreak) before posting a question there.
+Please use the "Issues" tab for **code related** issues only. If you need support please search on [real /r/jailbreak](https://reddit.com/r/jelbrek) before posting a question there.
 
 ## todo 
 das foid podpopedn up thsome siseus to make this afpgwe samroe ergular englsih, rther tha ths broken english below. (a nd aebaove)
